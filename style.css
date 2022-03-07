@@ -61,7 +61,7 @@ header {
     color: #71A894;
 }
 
-main {
+.firstPage {
     display: flex;
     justify-content: space-around;
     align-items: center;
