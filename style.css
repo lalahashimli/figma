@@ -92,7 +92,7 @@ header {
     color: #66645E;
 }
 
-button {
+.button {
     width: 219px;
     height: 64px;
     background: #71A894;
